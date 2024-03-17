@@ -2,7 +2,7 @@
 
 #Variables
 SSLLOC=/opt/ssl
-SCRIPTLOC=/home/pa-krieger@ia462.advossec.com/IA-462/Module-Five
+SCRIPTLOC=/opt/scripts
 RTPASS=P@ssw0rd
 INT1PASS=P@ssw0rd
 WEBLOC=/tmp
